@@ -2,14 +2,15 @@
 
 A modern, responsive personal portfolio website built using [v0.dev](https://v0.dev) and deployed seamlessly on [Vercel](https://vercel.com). This site showcases your projects, skills, and contact information in a clean, professional layout.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dimplebrar133-gmailcoms-projects/v0-personal-portfolio-website)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://v0-personal-portfolio-website-rouge-mu.vercel.app/)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/eapndc2Xhrd)
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **[Click here to view the live site](https://vercel.com/dimplebrar133-gmailcoms-projects/v0-personal-portfolio-website)**
+🔗 **[Click here to view the live site](https://v0-personal-portfolio-website-rouge-mu.vercel.app/)**  
+📬 **[Contact Section Direct Link](https://v0-personal-portfolio-website-rouge-mu.vercel.app/#contact)**
 
 ---
 
