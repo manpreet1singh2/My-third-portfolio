@@ -75,8 +75,8 @@ const Hero = () => {
           >
             <div className="relative w-full h-[500px] rounded-2xl overflow-hidden border-4 border-primary/20 shadow-xl">
               <Image
-                src="/placeholder.svg?height=500&width=400"
-                alt="Manpreet Singh"
+                src="/images/manpreet-profile.jpg"
+                alt="Manpreet Singh - Full Stack Developer"
                 fill
                 className="object-cover object-center"
                 priority

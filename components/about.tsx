@@ -32,7 +32,12 @@ const About = () => {
               className="relative"
             >
               <div className="relative w-full h-[400px] rounded-lg overflow-hidden border-4 border-primary/20 shadow-xl">
-                <Image src="/placeholder.svg?height=400&width=300" alt="Manpreet Singh" fill className="object-cover" />
+                <Image
+                  src="/images/manpreet-profile.jpg"
+                  alt="Manpreet Singh - Full Stack Developer"
+                  fill
+                  className="object-cover object-top"
+                />
               </div>
               <div className="absolute -bottom-5 -right-5 bg-primary text-primary-foreground py-2 px-4 rounded shadow-lg">
                 <span className="font-bold">CSE Graduate</span>
