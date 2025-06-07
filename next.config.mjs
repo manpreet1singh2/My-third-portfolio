@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    serverComponentsExternalPackages: ['mongodb']
+    serverComponentsExternalPackages: ['nodemailer']
   },
   images: {
     domains: ['localhost', 'vercel.app'],
@@ -11,9 +11,6 @@ const nextConfig = {
         hostname: '**',
       },
     ],
-  },
-  env: {
-    CUSTOM_KEY: process.env.CUSTOM_KEY,
   },
   typescript: {
     ignoreBuildErrors: true,

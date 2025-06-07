@@ -3,8 +3,11 @@
 import type React from "react"
 import Hero from "@/components/hero"
 import About from "@/components/about"
-import Projects from "@/components/projects"
 import Skills from "@/components/skills"
+import Projects from "@/components/projects"
+import Services from "@/components/services"
+import Stats from "@/components/stats"
+import Testimonials from "@/components/testimonials"
 import Contact from "@/components/contact"
 import AIChat from "@/components/ai-chat"
 import { useState } from "react"
@@ -47,11 +50,14 @@ export default function Home() {
   }
 
   return (
-    <>
+    <div className="min-h-screen">
       <Hero />
       <About />
       <Skills />
       <Projects />
+      <Services />
+      <Stats />
+      <Testimonials />
       <div className="container mx-auto py-10">
         <h1 className="text-3xl font-bold mb-6 text-center">Gemini AI Demo</h1>
 
@@ -90,6 +96,6 @@ export default function Home() {
       </div>
       <Contact />
       <AIChat />
-    </>
+    </div>
   )
 }
